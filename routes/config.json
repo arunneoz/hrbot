@@ -1,5 +1,5 @@
 {
-    "projectId" : "inbound-rune-devops-gke",
+    "projectId" : "<Your Project Id",
     "topickind" : "Topic",
     "synonymkind" : "Synonym"
 }
